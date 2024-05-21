@@ -1,1 +1,5 @@
-# Clase-10-Arquitectura
+# hola-mundo
+
+mi primer repositorio github
+
+i love 🐈:, ☕:, 🍫:
